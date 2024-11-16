@@ -14,7 +14,7 @@ I'm always eager to connect with others who share my interests.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-saraswat&show_icons=true&locale=en" alt="priyanshu-saraswat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-saraswat&rank_icon=github&show_icons=true&locale=en" alt="priyanshu-saraswat" />
 </p>
 
 <p align="center">
